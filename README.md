@@ -29,8 +29,8 @@
 <h3 align="center">👨‍💻 My Github Stats 👨‍💻</h3>
 <div align="center">
 
-[![Dongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangsunghyuk9820&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight)](https://github.com/kangsunghyuk9820/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsunghyuk9820&layout=compact)](https://github.com/kangsunghyuk9820/github-readme-stats)
+[![SungHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangsunghyuk98&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight)](https://github.com/kangsunghyuk98/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsunghyuk98&layout=compact)](https://github.com/kangsunghyuk98/github-readme-stats)
 </div>
 
 <p align="center">
