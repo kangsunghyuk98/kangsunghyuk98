@@ -1,21 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=%20SungHyuk&fontColor=ffffff&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
 
-
-<h3 align="center">DEVELOPER</h3>
-<h3 align="center"> 🌱 Stack 🌱 </h3>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
-<br>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
-<br>
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">&nbsp
-</p>
-<br>
-
 <h3 align="center"> 📬 Contacts 📬 </h3>
 <p align="center">
   <a href="mailto:anlbusan.google.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kirin0044@gmail.com"/></a>
