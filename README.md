@@ -9,8 +9,3 @@
 <p align="center">
 😎
 </p>
-
-<h3 align="center"> Projects </h3>
-<p align="center">
-- 신한은행 헤이영 캠퍼스 2.0 고도화 프로젝트 (23.05.08 ~)
-</p>
